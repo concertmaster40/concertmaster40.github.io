@@ -1,0 +1,77 @@
+.header{
+
+    height: 75px;
+    background: #252525;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 8px;
+}
+.projetos{
+    color: rgb(255, 255, 255);;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 2%;
+}
+.nome{
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 2%;
+    margin-top: -3px;
+    border-radius:5px;
+    width: 193px;
+    height: 64px;
+    font-size: xx-large;
+}
+body {
+    background-color: #000000;
+}
+.header1{
+    height: 330px;
+    background: #990000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius:8px;
+    margin-top: -15px;
+}
+.logo-header{
+    width: 759px;  
+    height: 286px;  
+    margin-top: 2%;
+    border-radius: 8px;   
+}
+.linha1{
+    font-size: 140%;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header2{
+    height: 285px;
+    background: #990000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius:8px;
+    margin-top: -15px;
+}
+.logo2-header{
+    width: 496.5px;  
+    height: 252.5px;  
+    margin-top: 2%;
+    border-radius: 8px;      
+}
+.linha2{
+    font-size: 140%;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.header3{
+    height: 285px;
+    background: #990000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius:8px;
+    margin-top: -15px;
+}
+.logo3-header{
+    width: 717px;  
+    height: 252px;  
+    margin-top: 2%;
+    border-radius: 8px;      
+    margin-left: 1%;
+}
+.linha3{
+    font-size: 140%;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

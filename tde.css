@@ -1,0 +1,48 @@
+header{
+
+    height: 200px;
+    background: #880000;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-radius: 5px;
+}
+
+body {
+    background-color: #000000;
+}
+.nome{
+    font-size: 30;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 50%;
+    color: antiquewhite;
+}
+
+.turma{
+    font-size: 30;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+.link_projetos{
+    font-size: 20;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+.link_sistemas{
+    font-size: 20;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+.link_mat{
+    font-size: 20;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+.link_rac{
+    font-size: 20;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
+.link_filo{
+    font-size: 20;
+    font-style: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+}
